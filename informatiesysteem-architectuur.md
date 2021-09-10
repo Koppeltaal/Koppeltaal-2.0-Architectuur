@@ -37,7 +37,7 @@ De Koppeltaal 2.0 Interfaces:
 * "LogEntry" : Het vastleggen van een een gebeurtenis \(tussen componenten\) in een logregel.
 * "Subscription Channel": Een abonnementskanaal voor het versturen van notificaties door de FHIR Resource Provider bij bepaalde gebeurtenissen.
 
-De Koppeltaal 2.0 diensten
+De Koppeltaal 2.0 diensten:
 
 * "Zorg ondersteuning": Is een beveiligde product die de ondersteuning levert voor de GGZ instelling, zoals het opvoeren van patiënten en behandelaren.
 * "Rapportage": Is het kunnen leveren van verschillende \(Management\) rapportages over de werking en het gebruik van Koppeltaal 2.0.
