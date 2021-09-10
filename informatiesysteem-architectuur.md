@@ -65,7 +65,7 @@ FHIR RESTful APIs is een product op zichzelf. Een API moet elk kanaal kunnen bed
 
 Het resultaat van de gemeenschappelijke strategie voor FHIR RESTful API’s is een stelsel brede standaardisatie van de volgende aspecten:
 
-1. [Basis interacties](https://app.gitbook.com/@stibbe/s/koppeltaal-2-0-architectuur/informatiesysteem-architectuur#basis-interacties)
+1. [Basis interacties](https://vzvz.gitbook.io/koppeltaal-2-0-architectuur/informatiesysteem-architectuur#basis-interacties)
 2. [Toegangsbeheersing](https://confluence.vzvz.nl/x/RoasB)
 3. [Beheer van resource instanties](https://confluence.vzvz.nl/x/VRliAw) 
 4. [Overzicht gebruikte FHIR Resources](https://confluence.vzvz.nl/x/4bIqB)
